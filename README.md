@@ -1,2 +1,1 @@
-# unicheckerbot
-git cert test
+# Unicheckerbot
